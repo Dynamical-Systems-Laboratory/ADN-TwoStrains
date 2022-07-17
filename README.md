@@ -1,4 +1,4 @@
-#Simulation codes of an activity-driven network model with two concurrent strains
+# Simulation codes of an activity-driven network model with two concurrent strains
 
 Article: Activity-driven network modeling and control of the spread of two concurrent epidemic strains
 
